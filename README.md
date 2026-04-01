@@ -1,5 +1,3 @@
-# simulador-financiamento-python
-Simulador de financiamento em Python que calcula parcelas com juros compostos e gera tabela de amortização
 
 # Simulador de Financiamento em Python 
 Este projeto simula um financiamento bancário permitindo calcular:
